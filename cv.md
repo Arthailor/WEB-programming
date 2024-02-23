@@ -22,7 +22,7 @@ Well I am a Belarusian-Russian University student with a passion for programming
 ## 5. Code Examples
 
 C#
-
+```
 static void Main(string[] args)
         {
            try
@@ -64,7 +64,7 @@ static void Main(string[] args)
                Console.WriteLine("Ошибка");
            }
         }
-
+```
 ## 6. Courses and Training
 1. Introduction to Programming
 1. Web Development Bootcamp
